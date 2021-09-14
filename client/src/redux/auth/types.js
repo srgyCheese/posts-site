@@ -1,0 +1,5 @@
+export const LOGIN = 'auth/login'
+export const LOGOUT = 'auth/logout'
+export const INPUT_LOGIN = 'auth/inputLogin'
+export const ERRORS = 'auth/errors'
+export const SET_READY = 'auth/setReady'

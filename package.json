@@ -1,0 +1,17 @@
+{
+  "name": "testtt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "client:dev": "npm run start --prefix client",
+    "server:dev": "npm run dev --prefix server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^6.2.1"
+  },
+  "dependencies": {}
+}

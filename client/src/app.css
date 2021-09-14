@@ -1,0 +1,40 @@
+.nav-link {
+    cursor: pointer;
+}
+
+.rdw-editor-wrapper {
+    border: #ced4da solid 1px;
+}
+
+.DraftEditor-root {
+    padding: 0 10px;
+}
+
+.rdw-dropdown-selectedtext {
+    text-decoration: none;
+    color: #000;
+}
+
+.loader {
+    margin: auto;
+    display: block;
+    width: 5rem;
+    height: 5rem;
+}
+
+.main-table {
+    font-size: 18px;
+}
+
+.main-table tr td:nth-child(1) {
+    font-weight: 600;
+}
+
+.main-table tr td:nth-child(2) {
+    text-align: right;
+}
+
+.main-table td {
+    padding: 15px 20px;
+    cursor: pointer;
+}
